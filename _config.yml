@@ -1,0 +1,13 @@
+encoding: UTF-8
+
+remote_theme: jekyll/minima
+
+title: Kalay's Blog
+description: Kalay's Personal Pages
+
+header_pages:
+  - about.md
+
+show_downloads: false
+
+
