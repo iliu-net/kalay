@@ -27,7 +27,7 @@ title: weer-zomervakantie
 
 Het is weer Zomervakantie !!!
 
-En ik ga op Engelse zomerschool èn ik ga op een cruiseschip van 8 dagen.
+En ik ga op Engelse zomerschool &egrave;n ik ga op een cruiseschip van 8 dagen.
 
 Zijn jullie nieuwsgierig wat ik op zomerscool.
 

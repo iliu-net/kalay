@@ -27,7 +27,7 @@ title: braziljaanse carnaval
 
 Brazilie spreek je zo uit Brazil.
 
-de  braziljaanse carnaval is zo leuk.
+de  braziljaanse carnaval is zo leuk.
 
 de braziljaanse vlag heeft blauw, wit,geel en groene kleuren.
 
@@ -35,7 +35,7 @@ blauw en wit is een wereld bol.
 
 en geel is goud,en groen is bossen.
 
-en  de wereld bol is Portugal.
+en  de wereld bol is Portugal.
 
 dit was de braziljaanse vlag.
 

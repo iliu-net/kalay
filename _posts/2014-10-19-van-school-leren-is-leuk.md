@@ -29,7 +29,7 @@ title: van school leren is leuk
 
 <em><strong>je kan er veel van leren.</strong></em>
 
-<em><strong>je leert taal, speling, woordenschat, rekenen, aarderijsku</strong><strong>nde, schrijven en topogaf</strong><strong>ie.</strong></em>
+<em><strong>je leert taal, speling, woordenschat, rekenen, aarderijsku</strong><strong>nde, schrijven en topogaf</strong><strong>ie.</strong></em>
 
 ![kl14.png]({{ site.url }}/img/2014/kl14.png)
 

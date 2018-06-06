@@ -39,7 +39,7 @@ bij rekenen leer je min en plus sommen en tafels.
 
 en bij spelling weten julie het al.
 
-en het verschil  tussen taal en rekenen is:
+en het verschil  tussen taal en rekenen is:
 
 eigenlijk hoef ik het niet te vertellen.
 

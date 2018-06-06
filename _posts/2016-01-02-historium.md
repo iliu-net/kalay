@@ -31,7 +31,7 @@ Daar leerde ik dingen over vroeger.
 En het ging over een dag in de eeuw 1435.
 Ik vond het heel spannend.
 Zal ik een stukje vertellen?
-Oké ik zal iets vertellen.
+Ok&eacute; ik zal iets vertellen.
 Het begon dat een jongen dat heet Jacob een meisje leert kennen.
 Dat meisje heet Anna.
 Jacob wordt verliefd.

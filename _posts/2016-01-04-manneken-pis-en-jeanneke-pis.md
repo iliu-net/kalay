@@ -30,8 +30,8 @@ Samen met Atomium en met Sint-Michiel vormt hij een van de bekendste symbolen va
 
 Het beeldje dook op het stadsbeeld aan het einde van de middeleeuwen.
 Toen de stad Brussel geleidelijk een netwerk voor de openbare watervoorziening aanlegde.
-Tot halfweg de 19de eeuw speelde het als fontein een essentiële rol in de distributie van drinkbaar water in de stad.
-Het eerste stenen beeldje werd in de 17de eeuw vervangen door een bronzen exemplaar beeldhouwer Jérome Dequesnoy de Ouwe, gemaakt in opdracht van het stadsbestuur.
+Tot halfweg de 19de eeuw speelde het als fontein een essenti&euml;le rol in de distributie van drinkbaar water in de stad.
+Het eerste stenen beeldje werd in de 17de eeuw vervangen door een bronzen exemplaar beeldhouwer J&eacute;rome Dequesnoy de Ouwe, gemaakt in opdracht van het stadsbestuur.
 Het originele beeld bevindt zich in het Museum van de Stad Brussel -
 Broodhuis - Grote Markt.
 

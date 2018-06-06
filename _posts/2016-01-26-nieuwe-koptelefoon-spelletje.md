@@ -28,7 +28,7 @@ title: Nieuwe koptelefoon, spelletje
 Ik was even iets vergeten te zeggen.
 Willen jullie het&nbsp; weten?
 Ja toch?
-Oké .
+Ok&eacute; .
 Ik heb nieuwe koptelefoon gekregen van papa. En ik heb op school het spel Zeg geen ja zeg geen nee.
 
 ![wpid-wp-1453837217359.jpg]({{ site.url }}/img/2016/wpid-wp-1453837217359.jpg)
