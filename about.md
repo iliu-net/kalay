@@ -22,7 +22,6 @@ post_type: page
 post_mime_type: ""
 comment_count: "0"
 title: About Me
-...
 ---
 
 <em><strong>informatie: ik ben Kalay!</strong></em>
@@ -39,3 +38,5 @@ title: About Me
 
 <em><strong>En ik ben lief.</strong></em>
 <a href="http://iliu.net/" target="_blank">Klik hier voor de website van mijn familie.</a>
+
+See on [Github](https://github.com/iliu-net/kalay)
